@@ -6,4 +6,4 @@ Line#1 added in chapter 5.
 
 Line#2 added in chapter 5.
 
-I want to ignore this change.
+Line#3 added in chapter 5.

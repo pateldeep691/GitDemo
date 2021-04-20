@@ -7,3 +7,5 @@ Line#1 added in chapter 5.
 Line#2 added in chapter 5.
 
 Line#3 added in chapter 5.
+
+Line #4 added in chapter 5.

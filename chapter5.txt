@@ -1,3 +1,9 @@
 Hi,
 
 This is chapter5 for Git
+
+Line#1 added in chapter 5.
+
+Line#2 added in chapter 5.
+
+Line#3 added in chapter 5.

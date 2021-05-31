@@ -7,3 +7,5 @@ This is first line added in chapter 1 and edited
 This is second line added in chapter 2
 
 line added in chapter1 for testing
+
+This is third line added in chapter 1
